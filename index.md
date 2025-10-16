@@ -8,3 +8,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Python
+- [ ] Google Colab
+- [x] Github
+- [ ] Introduce myself to the world
